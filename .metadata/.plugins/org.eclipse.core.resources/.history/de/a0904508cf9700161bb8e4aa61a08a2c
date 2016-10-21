@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_0INvMJSoEeaGncUK1035SA" id="_0IKE0JSoEeaGncUK1035SA" label="AdReport" creationDate="2016-10-17T14:32:25.506-0600" modificationDate="2016-10-21T14:27:50.226-0600" version="0.1" statusCode="" item="_0INvMpSoEeaGncUK1035SA" displayName="AdReport">
+    <author href="../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_0INvMZSoEeaGncUK1035SA" path="" locked="true" lockDate="2016-10-18T10:26:04.861-0600">
+    <locker href="../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_0INvMpSoEeaGncUK1035SA" property="_0INvMJSoEeaGncUK1035SA" state="_0INvMZSoEeaGncUK1035SA">
+    <process href="AdReport_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

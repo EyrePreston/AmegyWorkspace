@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_7DMAIPxAEeWF36Uqxd7HPQ" id="_7DCPIPxAEeWF36Uqxd7HPQ" label="importToDW" purpose="import data to DW" creationDate="2016-04-06T15:45:47.538-0600" modificationDate="2016-10-18T10:41:05.236-0600" version="0.1" statusCode="" item="_7DMAIvxAEeWF36Uqxd7HPQ" displayName="importToDW">
+    <author href="../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_7DMAIfxAEeWF36Uqxd7HPQ" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_7DMAIvxAEeWF36Uqxd7HPQ" property="_7DMAIPxAEeWF36Uqxd7HPQ" state="_7DMAIfxAEeWF36Uqxd7HPQ">
+    <process href="importToDW_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
