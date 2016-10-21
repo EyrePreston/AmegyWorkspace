@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_znoNgfxAEeWF36Uqxd7HPQ" id="_znoNgPxAEeWF36Uqxd7HPQ" label="Rollback" creationDate="2016-04-06T15:44:57.688-0600" modificationDate="2016-04-06T15:44:57.688-0600" version="0.1" item="_znoNg_xAEeWF36Uqxd7HPQ">
+    <author href="../../../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_znoNgvxAEeWF36Uqxd7HPQ" path="Generic/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_znoNg_xAEeWF36Uqxd7HPQ" property="_znoNgfxAEeWF36Uqxd7HPQ" state="_znoNgvxAEeWF36Uqxd7HPQ" system="true" eltName="Generic">
+    <content href="Rollback_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

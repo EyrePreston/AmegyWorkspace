@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_zwAGYPxAEeWF36Uqxd7HPQ" id="_zv2VYPxAEeWF36Uqxd7HPQ" label="OracleDropSourceTable" creationDate="2016-04-06T15:44:58.566-0600" modificationDate="2016-04-06T15:44:58.566-0600" version="0.1" item="_zwAGYvxAEeWF36Uqxd7HPQ">
+    <author href="../../../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_zwAGYfxAEeWF36Uqxd7HPQ" path="Oracle/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_zwAGYvxAEeWF36Uqxd7HPQ" property="_zwAGYPxAEeWF36Uqxd7HPQ" state="_zwAGYfxAEeWF36Uqxd7HPQ" system="true" eltName="Oracle">
+    <content href="OracleDropSourceTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

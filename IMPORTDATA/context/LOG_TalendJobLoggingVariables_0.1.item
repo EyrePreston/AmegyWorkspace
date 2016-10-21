@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="log_talendjobruntimelogid" prompt="log_talendjobruntimelogid?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter comment="" name="log_clientprocessid" prompt="log_clientprocessid?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter comment="" name="log_tajobnumber" prompt="log_tajobnumber?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="log_parenttalendjobruntimelogid" prompt="log_parenttalendjobruntimelogid?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter comment="" name="log_note" prompt="log_note?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="log_billableflag" prompt="log_billableflag?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter comment="" name="log_talendprojectname" prompt="log_talendprojectname?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="log_talendjobname" prompt="log_talendjobname?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

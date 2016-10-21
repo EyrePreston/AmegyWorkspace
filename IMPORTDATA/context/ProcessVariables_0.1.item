@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" name="Default">
+  <contextParameter comment="" name="AdReport" prompt="AdReport?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="ProcessindDirectory" prompt="ProcessindDirectory?" promptNeeded="false" type="id_Directory" value="K:/MEDIA/1- Analytics and Dashboards/Amegy/Source Data"/>
+  <contextParameter comment="" name="JavaCurrentDate" prompt="JavaCurrentDate?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter comment="" name="msgBody" prompt="msgBody?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="CustomLinks" prompt="CustomLinks?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="HELOCApplyNow" prompt="HELOCApplyNow?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="KeywordReport" prompt="KeywordReport?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="LandingPages" prompt="LandingPages?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

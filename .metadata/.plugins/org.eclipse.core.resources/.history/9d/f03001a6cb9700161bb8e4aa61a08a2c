@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_OnBy0Ru0EeafMt4V6_rmCA" id="_OnBy0Bu0EeafMt4V6_rmCA" label="LOG_StopServerRunTime" creationDate="2016-05-16T16:19:16.989-0600" modificationDate="2016-07-20T11:15:15.144-0600" version="0.1" statusCode="" item="_OnBy0xu0EeafMt4V6_rmCA" displayName="LOG_StopServerRunTime">
+    <author href="../../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_pdbOMJStEeaGncUK1035SA" path="SubJobs"/>
+  <TalendProperties:ProcessItem xmi:id="_OnBy0xu0EeafMt4V6_rmCA" property="_OnBy0Ru0EeafMt4V6_rmCA" state="_pdbOMJStEeaGncUK1035SA">
+    <process href="LOG_StopServerRunTime_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

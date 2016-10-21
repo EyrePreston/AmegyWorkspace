@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_zx8AEfxAEeWF36Uqxd7HPQ" id="_zx8AEPxAEeWF36Uqxd7HPQ" label="ParAccelDropSourceTable" creationDate="2016-04-06T15:44:58.769-0600" modificationDate="2016-04-06T15:44:58.769-0600" version="0.1" item="_zx8AE_xAEeWF36Uqxd7HPQ">
+    <author href="../../../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_zx8AEvxAEeWF36Uqxd7HPQ" path="ParAccel/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_zx8AE_xAEeWF36Uqxd7HPQ" property="_zx8AEfxAEeWF36Uqxd7HPQ" state="_zx8AEvxAEeWF36Uqxd7HPQ" system="true" eltName="ParAccel">
+    <content href="ParAccelDropSourceTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

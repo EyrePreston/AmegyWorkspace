@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="ssh_hostName" prompt="ssh_hostName?" promptNeeded="false" type="id_String" value="als-tools1.thomasarts.com"/>
+  <contextParameter comment="" name="ssh_port" prompt="ssh_port?" promptNeeded="false" type="id_String" value="22"/>
+  <contextParameter comment="" name="ssh_username" prompt="ssh_username?" promptNeeded="false" type="id_String" value="datamanagement"/>
+  <contextParameter comment="" name="ssh_keyfile" prompt="ssh_keyfile?" promptNeeded="false" type="id_String" value="//tas-projects/DEPARTMENTS/Data Management/Confidential/Talend/Reference/SSHKeys/DataManagement.ThomasARTS Private.ppk"/>
+  <contextParameter comment="" name="ssh_tunnelString" prompt="ssh_tunnelString?" promptNeeded="false" type="id_String" value=":rdsmysql01-ta-us-west-1-automation.thomasarts.com:3306"/>
+  <contextParameter comment="" name="ssh_password" prompt="ssh_password?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter comment="" name="ssh_connectionExists" prompt="ssh_connectionExists?" promptNeeded="false" type="id_Boolean" value="false"/>
+</talendfile:ContextType>

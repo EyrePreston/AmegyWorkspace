@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_1jbTMdTUEeSretFxLHWx0A" id="_LN0WUNc2EeSjUMTcNX7-Hg" label="TACustom" purpose="Routines written by TA" description="Adjustments to Talend routines, standardization in processes, simplifying cleanup by accounting for common problems." creationDate="2016-04-01T01:31:58.314-0600" modificationDate="2016-04-01T02:47:51.386-0600" version="0.4" statusCode="" item="_1jbTM9TUEeSretFxLHWx0A" displayName="TACustom">
+    <author href="../../../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ET5WQPzgEeWp9MT0eoEwBQ" path="MASTER"/>
+  <TalendProperties:RoutineItem xmi:id="_1jbTM9TUEeSretFxLHWx0A" property="_1jbTMdTUEeSretFxLHWx0A" state="_ET5WQPzgEeWp9MT0eoEwBQ">
+    <content href="TACustom_0.4.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

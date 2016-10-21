@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_1sQU0JSoEeaGncUK1035SA" id="_1sN4kJSoEeaGncUK1035SA" label="CustomLinks" creationDate="2016-10-17T14:32:35.997-0600" modificationDate="2016-10-18T11:28:05.761-0600" version="0.1" statusCode="" item="_1sQU0pSoEeaGncUK1035SA" displayName="CustomLinks">
+    <author href="../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_1sQU0ZSoEeaGncUK1035SA" path="" locked="true" lockDate="2016-10-18T10:53:20.103-0600">
+    <locker href="../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_1sQU0pSoEeaGncUK1035SA" property="_1sQU0JSoEeaGncUK1035SA" state="_1sQU0ZSoEeaGncUK1035SA">
+    <process href="CustomLinks_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

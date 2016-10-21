@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_g9fW8CK-Eea-xNMIb0R7mg" name="RDS_TA_SYSTEM" id="_W0_c8CK-Eea-xNMIb0R7mg" label="RDS_TA_SYSTEM" dataPackage="_g--ksCK-Eea-xNMIb0R7mg" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:4502/TA_SYSTEM?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="4502" Username="dmanagement" Password="PuwrryCFH86wbTPo855JCA==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="TA_SYSTEM" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_g9fW8SK-Eea-xNMIb0R7mg" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_g98C4CK-Eea-xNMIb0R7mg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_g-YHwCK-Eea-xNMIb0R7mg" tag="Status" value=""/>
+    <taggedValue xmi:id="_g-YHwSK-Eea-xNMIb0R7mg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_g-YHwiK-Eea-xNMIb0R7mg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_g-YHwyK-Eea-xNMIb0R7mg" tag="Description" value=""/>
+    <taggedValue xmi:id="_g-YHxCK-Eea-xNMIb0R7mg" tag="Author" value=""/>
+    <taggedValue xmi:id="_g-YHxSK-Eea-xNMIb0R7mg" tag="otherParameter"/>
+    <taggedValue xmi:id="_g-rpwCK-Eea-xNMIb0R7mg" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_g-rpwSK-Eea-xNMIb0R7mg" tag="DB ProductVersion" value="5.6.22-log"/>
+    <taggedValue xmi:id="_g-rpwiK-Eea-xNMIb0R7mg" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_g9fW8iK-Eea-xNMIb0R7mg" key="CONN_PARA_KEY_USERNAME" value="dmanagement"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_g--ksCK-Eea-xNMIb0R7mg" name="TA_SYSTEM" dataManager="_g9fW8CK-Eea-xNMIb0R7mg"/>
+</xmi:XMI>

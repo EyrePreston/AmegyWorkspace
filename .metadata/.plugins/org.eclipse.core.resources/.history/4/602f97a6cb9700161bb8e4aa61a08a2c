@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_zrXeAfxAEeWF36Uqxd7HPQ" id="_zrXeAPxAEeWF36Uqxd7HPQ" label="MySQLDropTargetTable" creationDate="2016-04-06T15:44:58.080-0600" modificationDate="2016-04-06T15:44:58.080-0600" version="0.1" item="_zrXeA_xAEeWF36Uqxd7HPQ">
+    <author href="../../../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_zrXeAvxAEeWF36Uqxd7HPQ" path="MySQL/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_zrXeA_xAEeWF36Uqxd7HPQ" property="_zrXeAfxAEeWF36Uqxd7HPQ" state="_zrXeAvxAEeWF36Uqxd7HPQ" system="true" eltName="MySQL">
+    <content href="MySQLDropTargetTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

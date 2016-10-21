@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_8FOpEJSoEeaGncUK1035SA" id="_8FK-sJSoEeaGncUK1035SA" label="KeywordReport" creationDate="2016-10-17T14:33:18.881-0600" modificationDate="2016-10-18T11:36:35.236-0600" version="0.1" statusCode="" item="_8FOpEpSoEeaGncUK1035SA" displayName="KeywordReport">
+    <author href="../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_8FOpEZSoEeaGncUK1035SA" path="" locked="true" lockDate="2016-10-18T11:14:41.236-0600">
+    <locker href="../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_8FOpEpSoEeaGncUK1035SA" property="_8FOpEJSoEeaGncUK1035SA" state="_8FOpEZSoEeaGncUK1035SA">
+    <process href="KeywordReport_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

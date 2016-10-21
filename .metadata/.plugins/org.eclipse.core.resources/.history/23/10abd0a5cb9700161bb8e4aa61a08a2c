@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_maHbsJVREeaa5aZbPf1Y0w" id="_maE_cJVREeaa5aZbPf1Y0w" label="ProcessVariables" creationDate="2016-10-18T10:40:38.378-0600" modificationDate="2016-10-18T10:40:57.556-0600" version="0.1" statusCode="" item="_maHbspVREeaa5aZbPf1Y0w" displayName="ProcessVariables">
+    <author href="../talend.project#_y9WhcPxAEeWF36Uqxd7HPQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_maHbsZVREeaa5aZbPf1Y0w" path=""/>
+  <TalendProperties:ContextItem xmi:id="_maHbspVREeaa5aZbPf1Y0w" property="_maHbsJVREeaa5aZbPf1Y0w" state="_maHbsZVREeaa5aZbPf1Y0w" defaultContext="Default">
+    <context href="ProcessVariables_0.1.item#/"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>
