@@ -707,7 +707,7 @@
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1440" posY="224">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1"/>
     <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="C:\Users\peyre\Talend\configurationTalend\lib\java"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="context.AdReport = &quot;File Read: &quot;+((String)globalMap.get(&quot;tFileList_1_CURRENT_FILE&quot;))+&quot; - &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE&quot;))+&quot; rows read | &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE_INSERTED&quot;))+&quot; rows inserted | &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE_REJECTED&quot;))+&quot; rows rejected&quot;;&#xA;&#xA;System.out.println(&quot;File Read: &quot;+((String)globalMap.get(&quot;tFileList_1_CURRENT_FILE&quot;))+&quot; - &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE&quot;))+&quot; rows read | &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE_INSERTED&quot;))+&quot; rows inserted | &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE_REJECTED&quot;))+&quot; rows rejected&quot;);&#xA;"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="context.AdReport = &quot;File Read: &quot;+((String)globalMap.get(&quot;tFileList_1_CURRENT_FILE&quot;))+&quot; - &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE&quot;))+&quot; rows read | &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE_INSERTED&quot;))+&quot; rows inserted | &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE_REJECTED&quot;))+&quot; rows rejected&quot;;&#xA;&#xA;System.out.println(&quot;File: &quot;+((String)globalMap.get(&quot;tFileList_1_CURRENT_FILE&quot;))+&quot; - &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE&quot;))+&quot; rows read | &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE_INSERTED&quot;))+&quot; rows inserted | &quot;+((Integer)globalMap.get(&quot;tMysqlOutput_1_NB_LINE_REJECTED&quot;))+&quot; rows rejected&quot;+((String)globalMap.get(&quot;tFileOutputDelimited_1_FILE_NAME&quot;))+&quot;File with errors&quot;);&#xA;"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tJava_1"/>
@@ -859,18 +859,9 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tRunJob_2"/>
   </node>
-  <node componentName="tSshTunnel" componentVersion="1.0" offsetLabelX="0" offsetLabelY="0" posX="1952" posY="32" sizeX="32" sizeY="30">
+  <node componentName="tSshTunnel" offsetLabelX="0" offsetLabelY="0" posX="1952" posY="32" sizeX="32" sizeY="30">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tSshTunnel_1"/>
-    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="C:\Users\peyre\Talend\configurationTalend\lib\java"/>
-    <elementParameter field="TABLE" name="TUNNELS">
-      <elementValue elementRef="HOST" value="context.ssh_hostName"/>
-      <elementValue elementRef="PORT" value="context.ssh_port"/>
-      <elementValue elementRef="USERNAME" value="context.ssh_username"/>
-      <elementValue elementRef="PASSWORD" value="context.ssh_password"/>
-      <elementValue elementRef="KEYFILE" value="context.ssh_keyfile"/>
-      <elementValue elementRef="L_TUNNEL_STRING" value="(&quot;4502&quot;+context.ssh_tunnelString)"/>
-    </elementParameter>
-    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <elementParameter field="CHECK" name="STARTABLE" value="true"/>
   </node>
   <node componentName="tLogCatcher" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="800" posY="64">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogCatcher_1"/>

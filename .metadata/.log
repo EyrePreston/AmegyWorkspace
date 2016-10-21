@@ -11,3 +11,127 @@ Command-line arguments:  -data C:\Users\peyre\Desktop\git test\Amegy Workspace\A
 !ENTRY org.talend.platform.logging 1 0 2016-10-21 14:18:45.820
 !MESSAGE 2016-10-21 14:18:45,818 INFO  org.talend.repository.ui.login.LoginComposite  - validate updatesite...
 
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:47.015
+!MESSAGE 2016-10-21 14:23:47,014 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - test@talend.com logged on IMPORTDATA
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:47.405
+!MESSAGE 2016-10-21 14:23:47,405 INFO  org.talend.core.repository.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.126
+!MESSAGE 2016-10-21 14:23:55,125 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for h2-1.3.160.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.128
+!MESSAGE 2016-10-21 14:23:55,127 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for jna.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.129
+!MESSAGE 2016-10-21 14:23:55,128 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for dataextract.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.129
+!MESSAGE 2016-10-21 14:23:55,129 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for de.cimt.jsonnormalize-1.3.0-jar-with-dependencies.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.130
+!MESSAGE 2016-10-21 14:23:55,130 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for jlo.talendcomp.gaanalytics-3.2-jar-with-dependencies.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.131
+!MESSAGE 2016-10-21 14:23:55,130 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for jsoup-1.7.3.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.131
+!MESSAGE 2016-10-21 14:23:55,131 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for jlo-talendcomp-google-adwordsreport-6.0.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.132
+!MESSAGE 2016-10-21 14:23:55,132 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for jlo.talendcomp.gamanage-4.1-jar-with-dependencies.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.133
+!MESSAGE 2016-10-21 14:23:55,133 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for jsch-0149.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.134
+!MESSAGE 2016-10-21 14:23:55,133 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for ServerAuth-0.0.1.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.134
+!MESSAGE 2016-10-21 14:23:55,134 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for jlo.talendcomp.googledrive-1.2-jar-with-dependencies.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.135
+!MESSAGE 2016-10-21 14:23:55,135 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for iText-2.0.8.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.136
+!MESSAGE 2016-10-21 14:23:55,136 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for FileExcelPOI-5.1-jar-with-dependencies.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.261
+!MESSAGE 2016-10-21 14:23:55,261 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for zookeeper-3.4.5-cdh5.1.2.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.262
+!MESSAGE 2016-10-21 14:23:55,262 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for zookeeper-3.4.5-mapr-1406.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.263
+!MESSAGE 2016-10-21 14:23:55,263 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for commons-lang-2.6.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.264
+!MESSAGE 2016-10-21 14:23:55,264 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for commons-logging-1.1.3.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.265
+!MESSAGE 2016-10-21 14:23:55,264 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for commons-cli-1.2.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.265
+!MESSAGE 2016-10-21 14:23:55,265 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for commons-codec-1.4.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.266
+!MESSAGE 2016-10-21 14:23:55,266 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for commons-codec-1.7.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.267
+!MESSAGE 2016-10-21 14:23:55,266 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for commons-collections-3.2.1.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.268
+!MESSAGE 2016-10-21 14:23:55,267 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for guava-12.0.1.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.268
+!MESSAGE 2016-10-21 14:23:55,268 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for log4j-1.2.17.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.269
+!MESSAGE 2016-10-21 14:23:55,269 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for slf4j-api-1.7.5.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.270
+!MESSAGE 2016-10-21 14:23:55,269 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for slf4j-log4j12-1.7.5.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.270
+!MESSAGE 2016-10-21 14:23:55,270 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for commons-io-2.4.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.271
+!MESSAGE 2016-10-21 14:23:55,271 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for commons-httpclient-3.0.1.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.272
+!MESSAGE 2016-10-21 14:23:55,272 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for httpclient-4.2.5.jar is not available
+
+
+!ENTRY org.talend.platform.logging 1 0 2016-10-21 14:23:55.273
+!MESSAGE 2016-10-21 14:23:55,272 INFO  org.talend.commons.exception.CommonExceptionHandler  - The download URL for httpcore-4.2.5.jar is not available
+
